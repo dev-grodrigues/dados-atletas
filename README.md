@@ -18,7 +18,7 @@ node dados-atletas.js
 ```
 ### 📂 Estrutura do projeto
 dados-atletas/
-├─ dados-atletas.js
-├─ README.md
+  ├─ dados-atletas.js
+    ├─ README.md
 ## 👨‍💻 **Autor: Gabriel Rodrigues**
 ![License](https://img.shields.io/badge/license-MIT-blue)
